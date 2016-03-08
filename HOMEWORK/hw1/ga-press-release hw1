@@ -1,3 +1,5 @@
+<!DOCTYPE html/>
+
 <p>General Assembly offers Classes and Workshops Worldwide</p>
 
 <p>For Immediate Release</p>
@@ -19,4 +21,4 @@
   <li>Sydney </li>
   <li>Washington D.C </li>
 
-  <p> For more information, visit General Assembly's website (http://generalassemb.ly) </p> </html>
+  <p> For more information, visit General Assembly's website <a href="https://generalassemb.ly">General Assembly</a> </p> </html>
