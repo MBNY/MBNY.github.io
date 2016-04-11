@@ -1,0 +1,29 @@
+header { font-weight: bold;
+	font-style: italic;
+	font-size: large;
+	color: green;
+
+ };
+
+ body {
+  text-align: center;
+}
+
+header {
+  text-align: center;
+  font-size: 50px;
+  border: none;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: yellow;
+  color: green;
+}
+
+input {
+  text-align: center;
+  font-size: 40px;
+  border: black;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: pink;
+}
