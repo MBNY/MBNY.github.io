@@ -76,7 +76,7 @@ h3 {
 	margin-right: 2%;
 }
 
-.main-article:nth-of-type(2n+1) {
+.main-article:nth-of-type (2n+1) {
 	clear: both;
 }
 
@@ -107,6 +107,22 @@ p {
 @media (max-width: 480px) {
 	#container {
 		width: 100%;
-	}
-}
 
+	}
+
+	h1, h2, h3 {
+		text-align: center;
+	}
+
+	.main-article {
+		float: none;
+		width: 100%;
+	}
+
+	#articles, #side-column {
+		float: none;
+		width: 100%;
+	}
+
+
+}
